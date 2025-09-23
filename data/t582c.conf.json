@@ -1,0 +1,14 @@
+{
+  "name": "T582C",
+  "skip_initial": false,
+  "type": "TABU",
+  "where": [
+    "modulpool = 'MP000100' AND dynnr = '2029'",
+    "modulpool = 'MP000100' AND dynnr = '2034'",
+    "modulpool = 'MP000100' AND dynnr = '2048'",
+    "modulpool = 'MP000100' AND dynnr = '2100'",
+    "modulpool = 'MP000100' AND dynnr = '3000'",
+    "modulpool = 'MP000100' AND dynnr = '3100'",
+    "modulpool = 'MP000100' AND dynnr = '3301'"
+  ]
+}
