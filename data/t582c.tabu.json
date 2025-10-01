@@ -1,48 +1,8 @@
 [
   {
-    "mandt": "300",
+    "mandt": "100",
     "modulpool": "MP000100",
     "dynnr": "2029",
-    "subprog": "ZP000100",
-    "subscreen": "0200",
-    "liststruct": ""
-  },
-  {
-    "mandt": "300",
-    "modulpool": "MP000100",
-    "dynnr": "2034",
-    "subprog": "ZP000100",
-    "subscreen": "0200",
-    "liststruct": ""
-  },
-  {
-    "mandt": "300",
-    "modulpool": "MP000100",
-    "dynnr": "2048",
-    "subprog": "ZP000100",
-    "subscreen": "0200",
-    "liststruct": ""
-  },
-  {
-    "mandt": "300",
-    "modulpool": "MP000100",
-    "dynnr": "3000",
-    "subprog": "ZP000100",
-    "subscreen": "0200",
-    "liststruct": ""
-  },
-  {
-    "mandt": "300",
-    "modulpool": "MP000100",
-    "dynnr": "3100",
-    "subprog": "ZP000100",
-    "subscreen": "0200",
-    "liststruct": ""
-  },
-  {
-    "mandt": "300",
-    "modulpool": "MP000100",
-    "dynnr": "3301",
     "subprog": "ZP000100",
     "subscreen": "0200",
     "liststruct": ""
